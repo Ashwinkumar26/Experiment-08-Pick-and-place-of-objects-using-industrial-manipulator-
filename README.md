@@ -1,5 +1,5 @@
 # Experiment-08: Pick and place of objects using industrial manipulator.
-# Date: 26-04-2024
+# Date: 22-04-2024
 # Name: Ashwin kumar K
 # Reference Number: 212221223001
 # Department: IT
